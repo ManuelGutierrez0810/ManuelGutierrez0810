@@ -1,5 +1,6 @@
 <!--Banner-->
-![ManuelGutierrez0810 Banner Image](https://lh3.googleusercontent.com/gg-dl/ABS2GSki2LmMcvz4mQBM2hblp4X2I-YBVfMKiZxxeJ5nvcWdkOohs9gs4w4hGeOTXO4yPrzkF_G3sln1dWOIGlm93nsDY0FRax7VYgryk5E0bgyfJlIb8IwxJMd-l-xpAKhDUkOgZ9BTb2lWbFsChvPIfUeej5gFdQaYY_sh2nEuOKpwDBtgjQ=s1024-rj)
+![ManuelGutierrez0810 Banner Image](<img width="2048" height="512" alt="Gemini_Generated_Image_gkk0w5gkk0w5gkk0" src="https://github.com/user-attachments/assets/9a0eae0d-11da-4982-8a3d-d32fd358b771" />)
+
 
 <!--Night Owl image-->
 <div>
