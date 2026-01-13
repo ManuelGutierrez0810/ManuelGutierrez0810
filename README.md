@@ -1,5 +1,5 @@
 <!--Banner-->
-![ManuelGutierrez0810 Banner Image](Logo-URL)
+![ManuelGutierrez0810 Banner Image](https://lh3.googleusercontent.com/gg-dl/ABS2GSki2LmMcvz4mQBM2hblp4X2I-YBVfMKiZxxeJ5nvcWdkOohs9gs4w4hGeOTXO4yPrzkF_G3sln1dWOIGlm93nsDY0FRax7VYgryk5E0bgyfJlIb8IwxJMd-l-xpAKhDUkOgZ9BTb2lWbFsChvPIfUeej5gFdQaYY_sh2nEuOKpwDBtgjQ=s1024-rj)
 
 <!--Night Owl image-->
 <div>
