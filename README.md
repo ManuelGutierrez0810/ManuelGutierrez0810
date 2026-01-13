@@ -1,6 +1,11 @@
 <!--Banner-->
-![ManuelGutierrez0810 Banner Image](<img width="2048" height="512" alt="Gemini_Generated_Image_gkk0w5gkk0w5gkk0" src="https://github.com/user-attachments/assets/9a0eae0d-11da-4982-8a3d-d32fd358b771" />)
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/9a0eae0d-11da-4982-8a3d-d32fd358b771"
+    alt="ManuelGutierrez0810 Banner Image"
+    width="100%"
+  />
+</p>
 
 <!--Night Owl image-->
 <div>
