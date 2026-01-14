@@ -23,7 +23,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://ManuelGutierrez0810.github.io) for more details about me.
+- 💻 Visit my [Portfolio]( ) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -40,15 +40,6 @@
   <img width="500px"
        src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux,ubuntu,vercel&perline=10" />
 </p>
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/ManuelGutierrez0810/github-profile-trophy">
-    <img src="https://github.com/ManuelGutierrez0810?tab=achievements" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
