@@ -65,10 +65,14 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+     <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ — AutoFix</strong></h3>
       <p align="center">
-        <a href="https://github.com/ManuelGutierrez0810/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ManuelGutierrez0810&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/ManuelGutierrez0810/autofix">
+          <img
+            align="center"
+            width="470"
+            src="https://github-readme-stats.vercel.app/api/pin/?username=ManuelGutierrez0810&repo=autofix&theme=nightowl"
+          />
         </a>
       </p>
     </td>
