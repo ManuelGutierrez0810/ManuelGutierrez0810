@@ -26,12 +26,12 @@
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://ManuelGutierrez0810.github.io) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ManuelGutierrez0810" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=ManuelGutierrez0810&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ManuelGutierrez0810" style="padding-right:20px;" />
 </p>
 
 ---
