@@ -38,14 +38,14 @@
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
   <img width="500px"
-       src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,expo,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux,ubuntu,railway,vercel&perline=10" />
+       src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux,ubuntu,vercel&perline=10" />
 </p>
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/ManuelGutierrez0810/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ManuelGutierrez0810&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+    <img src="https://github.com/ManuelGutierrez0810?tab=achievements" alt="GitHub Trophies">
   </a>
 </p>
 <br />
