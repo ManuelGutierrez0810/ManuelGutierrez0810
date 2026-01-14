@@ -82,12 +82,12 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ManuelGutierrez0810">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ManuelGutierrez0810&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+        <p align="center">
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelGutierrez0810&layout=compact&theme=nightowl"
+          />
+        </p>
     </td>
   </tr>
 </table>
