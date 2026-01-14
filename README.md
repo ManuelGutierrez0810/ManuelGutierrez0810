@@ -82,11 +82,11 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <h3 align="center"><strong>Cᴜʀʀᴇɴᴛʟʏ Bᴜɪʟᴅɪɴɢ</strong></h3>
         <p align="center">
-          <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelGutierrez0810&layout=compact&theme=nightowl"
-          />
+        🚧 Full Stack apps with React & Node<br/>
+        📱 Mobile apps with Expo<br/>
+        🤖 Exploring Machine Learning
         </p>
     </td>
   </tr>
